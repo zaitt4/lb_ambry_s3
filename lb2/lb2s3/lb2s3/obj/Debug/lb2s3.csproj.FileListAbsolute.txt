@@ -1,0 +1,11 @@
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\bin\Debug\lb2s3.exe.config
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\bin\Debug\lb2s3.exe
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\bin\Debug\lb2s3.pdb
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\obj\Debug\lb2s3.csproj.AssemblyReference.cache
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\obj\Debug\lb2s3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\obj\Debug\lb2s3.Form1.resources
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\obj\Debug\lb2s3.Properties.Resources.resources
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\obj\Debug\lb2s3.csproj.GenerateResource.cache
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\obj\Debug\lb2s3.csproj.CoreCompileInputs.cache
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\obj\Debug\lb2s3.exe
+C:\Users\Сенькович\source\repos\lb2s3\lb2s3\obj\Debug\lb2s3.pdb
